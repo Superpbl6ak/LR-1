@@ -1,0 +1,45 @@
+D:\Волков\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.exe
+D:\Волков\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.deps.json
+D:\Волков\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.runtimeconfig.json
+D:\Волков\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.dll
+D:\Волков\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.pdb
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.csproj.AssemblyReference.cache
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.AssemblyInfoInputs.cache
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.AssemblyInfo.cs
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.csproj.CoreCompileInputs.cache
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.dll
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\refint\q7.dll
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.pdb
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.genruntimeconfig.cache
+D:\Волков\LAB 1\Lab 7\q7\obj\Debug\net6.0\ref\q7.dll
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.exe
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.deps.json
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.runtimeconfig.json
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.dll
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\bin\Debug\net6.0\q7.pdb
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.csproj.AssemblyReference.cache
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.AssemblyInfoInputs.cache
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.AssemblyInfo.cs
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.csproj.CoreCompileInputs.cache
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.dll
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\refint\q7.dll
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.pdb
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\q7.genruntimeconfig.cache
+C:\Users\akios\Desktop\LAB 1\Lab 7\q7\obj\Debug\net6.0\ref\q7.dll
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\bin\Debug\net6.0\q7.exe
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\bin\Debug\net6.0\q7.deps.json
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\bin\Debug\net6.0\q7.runtimeconfig.json
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\bin\Debug\net6.0\q7.dll
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\bin\Debug\net6.0\q7.pdb
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\q7.csproj.AssemblyReference.cache
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\q7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\q7.AssemblyInfoInputs.cache
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\q7.AssemblyInfo.cs
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\q7.csproj.CoreCompileInputs.cache
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\q7.dll
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\refint\q7.dll
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\q7.pdb
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\q7.genruntimeconfig.cache
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 7\q7\obj\Debug\net6.0\ref\q7.dll
