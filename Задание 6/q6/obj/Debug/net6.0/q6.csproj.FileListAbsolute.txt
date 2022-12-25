@@ -1,0 +1,60 @@
+D:\Волков\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.exe
+D:\Волков\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.deps.json
+D:\Волков\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.runtimeconfig.json
+D:\Волков\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.dll
+D:\Волков\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.pdb
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.csproj.AssemblyReference.cache
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.AssemblyInfoInputs.cache
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.AssemblyInfo.cs
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.csproj.CoreCompileInputs.cache
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.dll
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\refint\q6.dll
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.pdb
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.genruntimeconfig.cache
+D:\Волков\LAB 1\Lab 6\q6\obj\Debug\net6.0\ref\q6.dll
+D:\C sharp\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.exe
+D:\C sharp\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.deps.json
+D:\C sharp\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.runtimeconfig.json
+D:\C sharp\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.dll
+D:\C sharp\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.pdb
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.csproj.AssemblyReference.cache
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.GeneratedMSBuildEditorConfig.editorconfig
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.AssemblyInfoInputs.cache
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.AssemblyInfo.cs
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.csproj.CoreCompileInputs.cache
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.dll
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\refint\q6.dll
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.pdb
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.genruntimeconfig.cache
+D:\C sharp\LAB 1\Lab 6\q6\obj\Debug\net6.0\ref\q6.dll
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.exe
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.deps.json
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.runtimeconfig.json
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.dll
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\bin\Debug\net6.0\q6.pdb
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.csproj.AssemblyReference.cache
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.AssemblyInfoInputs.cache
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.AssemblyInfo.cs
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.csproj.CoreCompileInputs.cache
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.dll
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\refint\q6.dll
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.pdb
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\q6.genruntimeconfig.cache
+C:\Users\akios\Desktop\LAB 1\Lab 6\q6\obj\Debug\net6.0\ref\q6.dll
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\bin\Debug\net6.0\q6.exe
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\bin\Debug\net6.0\q6.deps.json
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\bin\Debug\net6.0\q6.runtimeconfig.json
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\bin\Debug\net6.0\q6.dll
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\bin\Debug\net6.0\q6.pdb
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\q6.csproj.AssemblyReference.cache
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\q6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\q6.AssemblyInfoInputs.cache
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\q6.AssemblyInfo.cs
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\q6.csproj.CoreCompileInputs.cache
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\q6.dll
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\refint\q6.dll
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\q6.pdb
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\q6.genruntimeconfig.cache
+C:\Users\SuperbI6ak\OneDrive\Рабочий стол\Срочно сделать!!!\МДК. 02.01\ЛР 1\Готовая лабораторная 1\Lab 1.6\q6\obj\Debug\net6.0\ref\q6.dll

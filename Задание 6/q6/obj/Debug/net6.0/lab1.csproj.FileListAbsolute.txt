@@ -1,0 +1,75 @@
+D:\project vis\lab1\lab1\bin\Debug\net6.0\lab1.exe
+D:\project vis\lab1\lab1\bin\Debug\net6.0\lab1.deps.json
+D:\project vis\lab1\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+D:\project vis\lab1\lab1\bin\Debug\net6.0\lab1.dll
+D:\project vis\lab1\lab1\bin\Debug\net6.0\lab1.pdb
+D:\project vis\lab1\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+D:\project vis\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\project vis\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+D:\project vis\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+D:\project vis\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+D:\project vis\lab1\lab1\obj\Debug\net6.0\lab1.dll
+D:\project vis\lab1\lab1\obj\Debug\net6.0\refint\lab1.dll
+D:\project vis\lab1\lab1\obj\Debug\net6.0\lab1.pdb
+D:\project vis\lab1\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+D:\project vis\lab1\lab1\obj\Debug\net6.0\ref\lab1.dll
+D:\lab1\lab1\bin\Debug\net6.0\lab1.exe
+D:\lab1\lab1\bin\Debug\net6.0\lab1.deps.json
+D:\lab1\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+D:\lab1\lab1\bin\Debug\net6.0\lab1.dll
+D:\lab1\lab1\bin\Debug\net6.0\lab1.pdb
+D:\lab1\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+D:\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+D:\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+D:\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+D:\lab1\lab1\obj\Debug\net6.0\lab1.dll
+D:\lab1\lab1\obj\Debug\net6.0\refint\lab1.dll
+D:\lab1\lab1\obj\Debug\net6.0\lab1.pdb
+D:\lab1\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+D:\lab1\lab1\obj\Debug\net6.0\ref\lab1.dll
+D:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+D:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+D:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+D:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+D:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.dll
+D:\Волков\lab1\lab1\obj\Debug\net6.0\refint\lab1.dll
+D:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.pdb
+D:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.exe
+D:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.deps.json
+D:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+D:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.dll
+D:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.pdb
+D:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+D:\Волков\lab1\lab1\obj\Debug\net6.0\ref\lab1.dll
+E:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.exe
+E:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.deps.json
+E:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+E:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.dll
+E:\Волков\lab1\lab1\bin\Debug\net6.0\lab1.pdb
+E:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+E:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+E:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+E:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+E:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.dll
+E:\Волков\lab1\lab1\obj\Debug\net6.0\refint\lab1.dll
+E:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.pdb
+E:\Волков\lab1\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+E:\Волков\lab1\lab1\obj\Debug\net6.0\ref\lab1.dll
+D:\Волков\LAB 1\Lab 6\lab1\bin\Debug\net6.0\lab1.exe
+D:\Волков\LAB 1\Lab 6\lab1\bin\Debug\net6.0\lab1.deps.json
+D:\Волков\LAB 1\Lab 6\lab1\bin\Debug\net6.0\lab1.runtimeconfig.json
+D:\Волков\LAB 1\Lab 6\lab1\bin\Debug\net6.0\lab1.dll
+D:\Волков\LAB 1\Lab 6\lab1\bin\Debug\net6.0\lab1.pdb
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\lab1.csproj.AssemblyReference.cache
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\lab1.AssemblyInfoInputs.cache
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\lab1.AssemblyInfo.cs
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\lab1.csproj.CoreCompileInputs.cache
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\lab1.dll
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\refint\lab1.dll
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\lab1.pdb
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\lab1.genruntimeconfig.cache
+D:\Волков\LAB 1\Lab 6\lab1\obj\Debug\net6.0\ref\lab1.dll
